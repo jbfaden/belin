@@ -7,6 +7,6 @@ def box(size):
 
 for _ in range(15):
   box(30)
-  forward(100)
-  left(15)
+  t.forward(100)
+  t.left(15)
   
