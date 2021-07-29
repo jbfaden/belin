@@ -1,7 +1,7 @@
 import turtle as t
 
 def sayHello( x,y ):
-    print( f'Hello {x} {y}.' )
+    print( f'Hello {x:d} {y:d}.' )
 
 def dragTurtle( x,y ):
     t.goto( x,y )
