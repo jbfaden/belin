@@ -8,3 +8,5 @@ def dragTurtle( x,y ):
     
 t.onclick( sayHello )
 t.ondrag( dragTurtle )
+
+t.done()
