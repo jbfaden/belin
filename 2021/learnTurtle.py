@@ -6,6 +6,6 @@ t.circle(10)
 t.forward(20)
 
 for i in range(100):
-    t.circle(10)
+    t.dot(10)
     t.forward(20)
     t.left(10)
