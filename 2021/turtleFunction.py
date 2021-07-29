@@ -15,6 +15,6 @@ for _ in range(25):
   r = r + 15
   if r>255: 
     r = 0
-  t.color( '#%02x02x02x' % ( r, g, b ) )
+  t.color( '#%02x%02x%02x' % ( r, g, b ) )
   
           
