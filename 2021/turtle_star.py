@@ -1,4 +1,3 @@
-# this needs to be verified
 # How would you make a...
 #  ... triangle?
 #  ... pentagon?
