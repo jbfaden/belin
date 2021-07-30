@@ -10,9 +10,8 @@ sides = 5
 angle = 90
 length = 100
 
-while sides > 0:
+for _ in range(sides):
     t.forward(length)
     t.right(angle)
-    sides = sides - 1
 
 t.done()
