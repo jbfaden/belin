@@ -15,3 +15,4 @@ while sides > 0:
     t.right(angle)
     sides = sides - 1
 
+t.done()
